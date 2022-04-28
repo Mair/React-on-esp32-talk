@@ -1,0 +1,14 @@
+{
+  "C_Cpp.intelliSenseEngine": "Default",
+  "idf.adapterTargetName": "esp32",
+  "cSpell.words": ["IRAM"],
+  "files.associations": {
+    "future": "c",
+    "system_error": "c",
+    "*.ipp": "c",
+    "istream": "c",
+    "*.tcc": "c",
+    "_routes.h": "c"
+  },
+  "idf.openOcdConfigs": ["interface/ftdi/esp32_devkitj_v1.cfg", "target/esp32.cfg"]
+}
